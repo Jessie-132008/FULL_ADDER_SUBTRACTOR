@@ -60,7 +60,7 @@ assign borrow=((~a&c)|(~a&b)|(b&c));
 endmodule
 
 ```
-Developed by: JESSOE J
+Developed by: JESSIE J
 Register No : 25017372
 
 **RTL Schematic**
